@@ -1,4 +1,5 @@
-/* Use gcc as compiler
+/* Author : Tanishk Singh Sirohi
+Use gcc as compiler
 Run this on terminal by this command:
 gcc NAME_OF_THE_PROGRAM.c -lm
 ./a.exe //(In windows)// or ./a.out (In unix)
