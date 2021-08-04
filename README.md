@@ -1,5 +1,4 @@
 # Rotating-Donut
-Its my first upload on github.
 Its a rotating donut . Its coded in c.
 
  Use gcc as compiler
